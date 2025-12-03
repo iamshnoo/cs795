@@ -1,0 +1,14 @@
+# ignore the following
+bbq_data/
+models/
+src/wandb/
+src/__pycache__/
+train_out/
+test_data/medium/
+results/chinese_simplified/
+results/english/
+results/french/
+results/german/
+results/hindi/
+.DS_Store
+.vscode/
