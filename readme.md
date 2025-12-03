@@ -6,7 +6,7 @@ Translations of BBQ (using Tower-Plus-9B) model:
 - German: **bbq_data/german**
 - Hindi: **bbq_data/hindi**
 
-Next, Fahim used Qwen3 4B thinking model to evaluate BBQ data in all languages.
+Next, we used Qwen3 4B thinking model to evaluate BBQ data in all languages.
 The BBQ examples are then filtered into subsets based on model performance
 (correct_all, wrong_all) across languages.
 - Correct_all: examples that the model answered correctly in all languages.
